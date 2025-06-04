@@ -46,7 +46,7 @@ tax_data/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Syeda/tax_data.git
+git clone https://github.com/SyedaMahamFahim/Lancaster_Tax_Inquiry_Scraper.git
 cd tax_data
 ```
 
