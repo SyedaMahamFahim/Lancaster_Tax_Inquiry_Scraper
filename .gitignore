@@ -1,0 +1,27 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore logs
+src/logs/
+logs/
+
+# Ignore Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# macOS / Windows / Linux system files
+.DS_Store
+Thumbs.db
+
+
+.env
